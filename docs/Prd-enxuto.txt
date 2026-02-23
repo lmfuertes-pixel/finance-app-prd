@@ -1,0 +1,24 @@
+# PRD Enxuto – Finance App
+
+## Objetivo
+Permitir que o usuário registre gastos e receitas de forma rápida e simples, com apoio de IA para categorizar e gerar relatórios básicos.
+
+## Público-alvo
+Usuários de Android/iOS que desejam praticidade no controle financeiro sem complexidade.
+
+## Escopo do MVP
+- Registro de transações por texto simples.
+- Dashboard inicial com saldo e gráfico básico.
+- Relatório mensal resumido.
+- Configurações essenciais (tema claro/escuro, segurança).
+- Interações iniciais com IA (Copilot e Lovable).
+
+## Fora do escopo inicial
+- Integrações bancárias.
+- Metas financeiras avançadas.
+- Relatórios detalhados.
+
+## Evolução futura
+- Adição de categorias personalizadas.
+- Alertas de limite de gastos.
+- Integrações externas.
