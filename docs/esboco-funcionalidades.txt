@@ -1,0 +1,37 @@
+# Esboço de Funcionalidades – Finance App
+
+1. Cadastro de transações por linguagem natural
+   - Exemplo: "Gastei R$50 em transporte"
+   - IA sugere categoria automaticamente
+
+2. Dashboard inicial
+   - Saldo atual (entradas – saídas)
+   - Gráfico simplificado (pizza ou barras)
+   - Botão rápido para adicionar transação
+
+3. Categorias personalizáveis
+   - Lista padrão
+   - Criar, editar e excluir categorias
+
+4. Relatórios mensais
+   - Resumo de receitas e despesas
+   - Comparação com mês anterior
+   - Sugestão de meta de economia
+
+5. Alertas e lembretes
+   - Notificações de limite de gastos
+   - Vencimentos próximos
+   - Configuração de frequência
+
+6. Configurações
+   - Preferências de notificações
+   - Tema claro/escuro
+   - Segurança (senha, biometria)
+
+7. Interações com IA
+   - Copilot para PRD e estrutura
+   - Lovable para prototipagem visual
+
+8. Evolução futura
+   - Integrações bancárias
+   - Recursos avançados de análise
