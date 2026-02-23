@@ -1,0 +1,29 @@
+# PRD Amplo – Finance App
+
+## Objetivo
+Criar um aplicativo mobile que simplifique o controle de finanças pessoais, permitindo registrar transações por linguagem natural e gerar relatórios claros e úteis.
+
+## Público-alvo
+- Usuários de Android/iOS que desejam controlar gastos e receitas.
+- Pessoas que preferem simplicidade em vez de planilhas complexas.
+- Jovens adultos e profissionais que buscam praticidade.
+
+## Escopo
+- Cadastro de transações com IA para sugerir categorias.
+- Dashboard com saldo e gráficos básicos.
+- Relatórios mensais com comparativos.
+- Alertas e lembretes configuráveis.
+- Configurações de tema e segurança.
+- Interações com IA (Copilot para PRD, Lovable para protótipos).
+
+## MVP
+- Registro de transações simples.
+- Dashboard inicial com saldo e gráfico.
+- Relatório mensal básico.
+- Configurações essenciais (tema e segurança).
+- Interações iniciais com IA.
+
+## Evolução futura
+- Integrações bancárias.
+- Recursos avançados de análise.
+- Metas financeiras inteligentes.
